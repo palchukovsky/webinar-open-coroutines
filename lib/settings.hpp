@@ -3,7 +3,7 @@
 
 namespace lib {
 
-const std::string_view host = "https://en.cppreference.com";
+const std::string_view host = "en.cppreference.com";
 const std::array pages = {"/w",                       //
                           "/w/cpp/standard_library",  //
                           "/w/cpp/language",          //
